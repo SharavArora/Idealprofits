@@ -1,9 +1,5 @@
-fastapi
-uvicorn
 gunicorn
-sqlalchemy
-pydantic
+uvicorn
+fastapi
 python-jose
-passlib[bcrypt]
-python-dotenv
-psycopg2-binary
+passlib
