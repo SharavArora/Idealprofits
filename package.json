@@ -5,12 +5,15 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^0.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "npm run install-deps && react-scripts build",
     "install-deps": "npm install --legacy-peer-deps",
     "prebuild": "npm run install-deps"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
   }
 }
