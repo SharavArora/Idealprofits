@@ -1,11 +1,9 @@
 fastapi
-uvicorn[standard]
+uvicorn
+gunicorn
 sqlalchemy
-psycopg2-binary
-alembic
 pydantic
-python-jose[cryptography]
+python-jose
 passlib[bcrypt]
-fastapi-socketio
-redis
-celery
+python-dotenv
+psycopg2-binary
