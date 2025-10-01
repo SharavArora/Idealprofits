@@ -1,0 +1,16 @@
+{
+  "users": {
+    "1": {
+      "name": "user",
+      "total_earned": 0,
+      "ideas_shared": [],
+      "vouches": 0
+    },
+    "2": {
+      "name": "user",
+      "total_paid": 0,
+      "verified": false,
+      "commissions": []
+    }
+  }
+}
